@@ -1,0 +1,10 @@
+computer
+phone
+cat
+dog
+picture
+girl
+boy
+pen
+pencil
+music
